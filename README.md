@@ -1,4 +1,4 @@
-# revou-fsse-2023h2_w1-intermediate-assignment
+# RevoU-FSSE-2023H2 _ Alifah Syamsul _ W1 Intermediate Assignment
 Intermediate assignment for Week 1 in the RevoU Full-stack Software Engineering 2023H2 program
 
 [Assignment brief](https://docs.google.com/document/d/1DK7jyE81NyFstWPnC1ljoGsvj0l40DFCwnQbOlCAZX8/edit?usp=sharing)
